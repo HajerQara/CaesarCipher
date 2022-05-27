@@ -1,8 +1,8 @@
 # Name: Hajer Qara
 # Date: 5/29/2022
-# File Name: CesarCipher.py
+# File Name: CaesarCiphe.py
 
-# Cesar Cipher was an past assignment that enabled a user 
+# Caesar Cipher was an past assignment that enabled a user 
 # to input a string of text to encrypt or decrypt
 # Note: Users are advised to use uppercase 'E' and uppercase 'D' when making a selection 
 
