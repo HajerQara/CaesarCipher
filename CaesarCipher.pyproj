@@ -4,13 +4,13 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6134c22f-627c-4baa-86c8-16cd1700189d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CesarCipher.py</StartupFile>
+    <StartupFile>CaesarCipher.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>CesarCipher</Name>
-    <RootNamespace>CesarCipher</RootNamespace>
+    <Name>CaesarCipher</Name>
+    <RootNamespace>CaesarCipher</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="CesarCipher.py" />
+    <Compile Include="CaesarCipher.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
